@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1687654278 source:c:\users\vales\desktop\berenice\berenice v4\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+
+1687748001 c:\users\vales\desktop\berenice\berenice v4\funcoes.h
+
+1687746167 source:c:\users\vales\desktop\berenice\berenice v4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+
+1687741841 source:c:\users\vales\desktop\berenice\berenice v4\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+
+1687745095 source:c:\users\vales\desktop\berenice\berenice v4\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+
+1687747992 source:c:\users\vales\desktop\berenice\berenice v4\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+
+1687747915 source:c:\users\vales\desktop\berenice\berenice v4\listaproduto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+
+1687747194 source:c:\users\vales\desktop\berenice\berenice v4\listavenda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+
+1687747915 source:c:\users\nitro 5\desktop\eng.software\semestre2\berefinal\listaproduto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+
+1687748001 c:\users\nitro 5\desktop\eng.software\semestre2\berefinal\funcoes.h
+
+1687746167 source:c:\users\nitro 5\desktop\eng.software\semestre2\berefinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+
+1687745095 source:c:\users\nitro 5\desktop\eng.software\semestre2\berefinal\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+
+1687747992 source:c:\users\nitro 5\desktop\eng.software\semestre2\berefinal\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+
+1687747915 source:c:\users\nitro 5\onedrive\햞ea de trabalho\eng.software\semestre2\berefinal\listaproduto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+
+1687748001 c:\users\nitro 5\onedrive\햞ea de trabalho\eng.software\semestre2\berefinal\funcoes.h
+
+1687746167 source:c:\users\nitro 5\onedrive\햞ea de trabalho\eng.software\semestre2\berefinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+
+1687745095 source:c:\users\nitro 5\onedrive\햞ea de trabalho\eng.software\semestre2\berefinal\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+
+1687747992 source:c:\users\nitro 5\onedrive\햞ea de trabalho\eng.software\semestre2\berefinal\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"funcoes.h"
+
